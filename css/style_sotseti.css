@@ -1,0 +1,70 @@
+a {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aqua;
+    background-color: transparent;
+    text-decoration: underline;
+    text-decoration: none;
+}
+
+a:active {
+    color: aqua;
+    background-color: transparent;
+    text-decoration: underline;
+    text-decoration: none;
+}
+
+h1 {
+    color: white;
+}
+
+.logotyp {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 1px;
+    position: fixed;
+}
+
+/* menu */
+.menu {
+    font-size: 20pt;
+}
+
+.menu_samp {
+    margin-left: 380px;
+}
+
+.menu_mta {
+    margin-left: 480px;
+    margin-top: -30px;
+}
+
+.menu_project {
+    margin-left: 570px;
+    margin-top: -30px;
+}
+
+.menu_sotseti {
+    margin-left: 860px;
+    margin-top: -30px;
+}
+
+.menu_home {
+    margin-left: 650px;
+    margin-top: 10px;
+}
